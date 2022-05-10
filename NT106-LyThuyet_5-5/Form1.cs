@@ -19,11 +19,11 @@ namespace NT106_LyThuyet_5_5
         {
             InitializeComponent();
 
-            tb_Receiver.Text = "hongvinhkrn@gmail.com";
-            tb_Sender.Text = "hongvinh45krn@gmail.com";
+            //tb_Receiver.Text = "hongvinhkrn@gmail.com";
+            //tb_Sender.Text = "hongvinh45krn@gmail.com";
 
-            tb_Subject.Text = "Test Sending Mail";
-            rtb_MailBody.Text = "This is body";
+            //tb_Subject.Text = "Test Sending Mail";
+            //rtb_MailBody.Text = "This is body";
         }
 
         bool SendMyMail(string sender, string password, string receiver, string mailSubject, string mailBody, Attachment attachment)
@@ -64,8 +64,7 @@ namespace NT106_LyThuyet_5_5
         private void lb_Send_Click(object sender, EventArgs e)
         {
             string senderMail = tb_Sender.Text;
-            //string password = tb_Password.Text;
-            string password = "vjnh2002";
+            string password = tb_Password.Text;
             string receiver = tb_Receiver.Text;
             string bodyMail = SetFormatMail(rtb_MailBody.Text);
             string subjectMail = tb_Subject.Text;
