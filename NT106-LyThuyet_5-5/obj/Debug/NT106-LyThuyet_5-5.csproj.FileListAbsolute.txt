@@ -1,0 +1,10 @@
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\bin\Debug\NT106-LyThuyet_5-5.exe.config
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\bin\Debug\NT106-LyThuyet_5-5.exe
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\bin\Debug\NT106-LyThuyet_5-5.pdb
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106-LyThuyet_5-5.csproj.AssemblyReference.cache
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106_LyThuyet_5_5.Form1.resources
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106_LyThuyet_5_5.Properties.Resources.resources
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106-LyThuyet_5-5.csproj.GenerateResource.cache
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106-LyThuyet_5-5.csproj.CoreCompileInputs.cache
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106-LyThuyet_5-5.exe
+C:\Users\HONG VINH\source\repos\NT106-LyThuyet_5-5\NT106-LyThuyet_5-5\obj\Debug\NT106-LyThuyet_5-5.pdb
