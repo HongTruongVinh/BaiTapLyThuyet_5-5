@@ -1,9 +1,9 @@
 # BaiTapLyThuyet_5-5
-Hồng Trường Vinh - 20522157 (Nhóm trưởng)
-Bùi Hải Đăng - 20521156
-Vũ Thành Đạt - 20521181
-Trần Kiến Quốc - 20520293
-Lý Quốc Kiệt - 20521496
++ Hồng Trường Vinh - 20522157 (Nhóm trưởng)
++ Bùi Hải Đăng - 20521156
++ Vũ Thành Đạt - 20521181
++ Trần Kiến Quốc - 20520293
++ Lý Quốc Kiệt - 20521496
 
 
 Phân chia công việc:
